@@ -23,3 +23,6 @@ print('Hi Git')
 
 
 #----git pull test?
+#> git pull
+
+# the git pull test worked!! lets push it back !
