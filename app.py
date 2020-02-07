@@ -12,8 +12,11 @@ print('Hi Git')
 #> git add . (for mwhen you make changes)
 #> git commit -m "Changes I made to the file"
 
-#--- when you want to push
+#--- when you want to push (for the first time in a new repo)
 #> git remote add origin https://github.com/mikegoescoding/my-repo-name.git
 #> git push -u origin master
 
 # LETS SEE WHAT HAPPENS AFTER YOU PUSH, AND COMMIT AGAIN ???? HMMMM.....
+
+#--- when you want to push after the initial push, *** you only need to use:
+#> git push
