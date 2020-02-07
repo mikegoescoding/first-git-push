@@ -15,3 +15,5 @@ print('Hi Git')
 #--- when you want to push
 #> git remote add origin https://github.com/mikegoescoding/my-repo-name.git
 #> git push -u origin master
+
+# LETS SEE WHAT HAPPENS AFTER YOU PUSH, AND COMMIT AGAIN ???? HMMMM.....
