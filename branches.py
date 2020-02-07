@@ -12,4 +12,4 @@
 ## creates a new branch and switches to it (checkout) at the same time 
 
 
-## hello from the anothernewbranch branch
+## hello from the master branch
