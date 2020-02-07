@@ -8,5 +8,10 @@ print('Hi Git')
 #> git commit -m "Name my commit here" (make sure to to leave a message with -m!!!!)
 ##> git status (optional, just to see status of tracked/untracked and left to be committed)
 
+#--- when you make changes to commit
 #> git add . (for mwhen you make changes)
 #> git commit -m "Changes I made to the file"
+
+#--- when you want to push
+#> git remote add origin https://github.com/mikegoescoding/my-repo-name.git
+#> git push -u origin master
