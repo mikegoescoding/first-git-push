@@ -27,10 +27,10 @@ print('Hi Git')
 
 # the git pull test worked!! lets push it back !
 
-+#---------- reverting to latest git commit - all files
-+#> git diff filename.py  <--- shows differences between latest commit and current changes
-+#> git checkout .(dot)  <---- removes the changes
-+#> git status <--- to show/confirm they were removed
+#---------- reverting to latest git commit - all files
+#> git diff filename.py  <--- shows differences between latest commit and current changes
+#> git checkout .(dot)  <---- removes the changes
+#> git status <--- to show/confirm they were removed
 
 #---------- revert to latest git commit - single file
 #> git log <-- to get log of commits
