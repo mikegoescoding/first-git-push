@@ -26,3 +26,8 @@ print('Hi Git')
 #> git pull
 
 # the git pull test worked!! lets push it back !
+
++#---------- reverting to latest git commit
++#> git diff filename.py  <--- shows differences between latest commit and current changes
++#> git checkout .(dot)  <---- removes the changes
++#> git status <--- to show/confirm they were removed
