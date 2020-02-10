@@ -12,4 +12,7 @@
 ## creates a new branch and switches to it (checkout) at the same time 
 
 
+
 ## hello from testbranch
+## hello from the master branch
+## added new feature and stashed, then pushed
